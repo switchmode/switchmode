@@ -47,6 +47,6 @@ Wishlist from lawyer-folk:
 
 ## Licensing
 
-I will eventually draft a purpose-built public license for Switchmode that makes clear it can be freely used, copied, adapted, with a requirement that copies with changes call out that they are based on, but not the same as, officially released editions.
+See [`LICENSE`](./LICENSE).
 
-If you submit significant changes, please be prepared to work with me to make sure your contributions are licensed under the same terms as my original work.  I am absolutely looking forward to recognizing and celebrating input from others, if they're open to it!
+The public license has a condition requiring licensing of contributions to the public on the same terms, plus a license to my personally, to relicense in the future.  All the same, please expect that I may ask for a message or other written note acknowledging the license and making contributions available on its terms.
