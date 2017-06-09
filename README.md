@@ -4,7 +4,7 @@ an open form contract for open source contractors
 
 The form is under active development toward a first edition.  Feedback and contributions are _very_ welcome.  [See `CONTRIBUTING.md`](./CONTRIBUTING.md).
 
-Download the most recent release from [GitHub](https://github.com/kemitchell/switchmode/releases).
+Download the most recent release from [GitHub](https://github.com/kemitchell/switchmode/releases) or [commonform.org](https://commonform.org/publications/kemitchell/switchmode/latest).
 
 ## Be Warned!
 
