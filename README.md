@@ -31,3 +31,18 @@ Switchmode sets up an open release process the developer can use to request perm
 Plain-language, two-way confidentiality terms cover all projects and work.  There's an explicit exception for approved open releases, as well as a special exception for disclosing technical details when working with developers of open-source software used for a project.
 
 Both the open release process and community-work exception involve a "technical representative" who speaks for the client on engineering matters with low legal and business risk.
+
+## Building
+
+The repository has configuration to build copies of the terms in various formats, including Word, PDF, Markdown, and native Common Form.
+
+If you're alright agreeing to the terms of use for Microsoft's Core Fonts for the Web, for Times New Roman, the easiest way to build is probably with Docker:
+
+```shellsession
+git clone https://github.com/kemitchell/switchmode
+cd switchmode
+git checkout $edition
+make docker
+```
+
+The `Dockerfile` uses a Debian Linux base imagine for Node.js, and installs other build tools from Debian package repositories.  If you want to build without Docker, have a look at the `RUN` lines in `Dockerfile` to see what you'll need.
