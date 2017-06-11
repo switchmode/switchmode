@@ -16,12 +16,6 @@ Download the most recent release from [GitHub](https://github.com/kemitchell/swi
 
 The Switchmode Developer Agreement is a new breed of independent contractor agreement for open-source developers doing a mix of open and closed projects for clients.  Unlike a "traditional", Silicon Valley-style independent contractor or consulting agreement, Switchmode addresses the use and release of open-source software directly.
 
-### Structure
-
-Switchmode is structured as a master agreement setting out terms that apply to work agreed in "Project Summaries" signed by developer and client.  There are all kinds of names for this kind of arrangement: statements of work, work orders, and so on.
-
-Each Project Summary describes the work to be done on a project, what the client will pay for it, and whether it is an "open project" or a "closed project".  Different intellectual property and confidentiality terms apply to work on the project, depending on whether it's closed or open.
-
 ### New and Novel
 
 Switchmode uses the terms of an open-source license, The MIT License, as the terms of license between developer and client.  Most clients' lawyers know MIT well, and use a ton of software under its terms already.  To address additional, reasonable expectations for paid work, Switchmode layers additional terms about provenance and ownership on top of MIT for work from the developer.
@@ -31,6 +25,12 @@ Switchmode sets up an open release process the developer can use to request perm
 Plain-language, two-way confidentiality terms cover all projects and work.  There's an explicit exception for approved open releases, as well as a special exception for disclosing technical details when working with developers of open-source software used for a project.
 
 Both the open release process and community-work exception involve a "technical representative" who speaks for the client on engineering matters with low legal and business risk.
+
+### Structure
+
+Switchmode is structured as a master agreement setting out terms that apply to work agreed in "Project Summaries" signed by developer and client.  There are all kinds of names for this kind of arrangement: statements of work, work orders, and so on.
+
+Each Project Summary describes the work to be done on a project, what the client will pay for it, and whether it is an "open project" or a "closed project".  Different intellectual property and confidentiality terms apply to work on the project, depending on whether it's closed or open.
 
 ## Building
 
