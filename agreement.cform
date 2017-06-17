@@ -90,6 +90,8 @@
 
                 \\  If the <Developed Intellectual Property> <Utilizes> others' <Software>, data, or other kinds of work, either the <Project Summary> or the <Technical Representative> specifically approved that work, or it is <Open Software>.
 
+            \Disclaimer!!  <Developer> makes only the guarantees in {Developer Guarantees} about <Developed Intellectual Property>.  Otherwise, <Developer> provides the <Developed Intellectual Property> without any warranty of merchantability, of fitness for a particular purpose, or of any other kind.
+
         \Open Source Guidelines\  If <Company> gives <Notice> of specific <Open Software> or kinds of <Open License> that <Company> permits or prohibits, <Developer> agrees to follow those guidelines in selecting <Open Software> that <Developed Intellectual Property> for any later <Project> <Utilizes>.  <Company> agrees that <Developer> can rely on LICENSE, COPYING, and similar files, as well as copyright notices, header comments, and package metadata, to determine what license terms apply.
 
         # End of {Intellectual Property}
@@ -100,7 +102,7 @@
 
             \\  <Developer> does not agree to maintain, provide support for, ensure the availability of, or provide any other kind of service for any <Developed Intellectual Property> published as <Open Software>.
 
-        \Disclaimers!!  <Developer> makes only the guarantees in {Developer Guarantees} about <Developed Intellectual Property>.  Otherwise, <Developer> provides the <Developed Intellectual Property> without any warranty of merchantability, of fitness for a particular purpose, or of any other kind.  If <Company> takes <Legal Action> against <Developer> related to the <Developed Intellectual Property>, under contract law, tort law, or any other kind of law, the <Company>'s damages from <Developer> will be capped at the amount of fees <Company> actually paid <Developer> under this agreement during the twelve prior calendar months.
+        \Limited Damages!!  If <Company> takes <Legal Action> against <Developer> related to the <Developed Intellectual Property>, under contract law, tort law, or any other kind of law, the <Company>'s damages from <Developer> will be capped at the amount of fees <Company> actually paid <Developer> for the <Project>.
 
         \Changes\  <Company> and <Developer> can change any of the terms of a <Project Summary> by writing out and cosigning an amendment to the <Project Summary>.  <Developer> and the <Technical Representative> can change <Project Summary> terms about the work that <Developer> will do by agreeing to changes in writing.
 
