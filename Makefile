@@ -35,5 +35,6 @@ clean:
 
 docker:
 	docker build -t switchmode .
-	docker run -v $(shell pwd)/$(OUTPUT):/workdir/$(OUTPUT) switchmode
-	sudo chown -R `whoami`:`whoami` $(OUTPUT)
+	docker run --name switchmode switchmode
+	docker cp switchmode:/workdir/$(OUTPUT) .
+	docker rm switchmode
