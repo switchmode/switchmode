@@ -140,21 +140,21 @@
 
             \Publishing Open Software\  <Developer> may publish the <Software> of any <Approved Release> or <Open Project> as <Open Software>, as long as <Developer> removes all other <Company> <Secrets> before publishing.
 
-            \Collaborating with Open Software Developers\  In specific circumstances, <Developer> may disclose <Company> to developers of <Open Software>:
+            \Collaborating with Open Software Developers\  In specific circumstances, <Developer> may disclose <Company> <Secrets> to developers of <Open Software>:
 
-                \\  <Developer> may only disclose <Secrets> of a technical nature.
+                \\  <Developer> may only disclose <Company> <Secrets> of a technical nature.
 
                 \\  <Developer> may not disclose <Company> <Secrets>, even of a technical nature, that would prevent or destroy intellectual property protection, such as patentable inventions or trade secrets, or that would afford <Company> competitors any significant advantage over <Company> in any line of business.
 
                 \\  <Developer> may not disclose <Company>'s identity, any <Information Marked Confidential>, or any <Personal Information>.
 
-                \\  <Developer> may disclose <Secrets> only as needed for effective and efficient collaboration with <Open Software> developers.
+                \\  <Developer> may disclose <Company> <Secrets> only as needed for effective and efficient collaboration with <Open Software> developers.
 
-                \\  <Developer> may disclose only to receive technical support for, report a possible bug in, or to propose or discuss changes to, <Open Software>.
+                \\  <Developer> may disclose <Company> <Secrets> only to receive technical support for, report a possible bug in, or to propose or discuss changes to, <Open Software>.
 
                 \\  The <Open Software> must be <Software> that a <Project> <Utilizes> or potentially <Utilizes>, or <Open Software> used or potentially used to operate or develop <Project> <Software>.
 
-                \\  <Developer> may disclose by private message to an <Open Software> developer, or by message to a public mailing list, bug tracking system, or revision control system.
+                \\  <Developer> may disclose <Company> <Secrets> by private message to an <Open Software> developer, or by message to a public mailing list, bug tracking system, or revision control system.
 
             \Technical Representative Guidance\  <Company> agrees that <Developer> can rely on written messages from the <Technical Representative> that disclosing specific information, or sending a specific message, would fall under {Collaborating with Open Software Developers}.
 
