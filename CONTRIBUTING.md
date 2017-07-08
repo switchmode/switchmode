@@ -19,7 +19,7 @@ Wishlist from software people:
 
 - Does the difference in terms for "open projects" and "closed projects" make sense in light of your experience?  Do you think those different terms track clients' expectations?
 
-- What important terms from your own form is missing in this one?
+- What important terms from your own form are missing in this one?
 
 - Have your company's lawyers take a look and provide feedback.  They can submit anonymously, via e-mail, if they're so inclined.
 
