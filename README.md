@@ -46,3 +46,8 @@ make docker
 ```
 
 The `Dockerfile` uses a Debian Linux base image for Node.js, and installs other build tools from Debian package repositories.  If you want to build without Docker, have a look at the `RUN` lines in `Dockerfile` to see what you'll need.
+
+## Thanks
+
+The Switchmode Developer Agreement can only improve and succeed with the help of community members---lawyers, coders, and businessfolk---who take time to share their thoughts and experiences.  In addition to the Git commit log, see [`THANKS.md`](THANKS.md) for thanks and credits.
+>>>>>>> Add THANKS (closes #13)
