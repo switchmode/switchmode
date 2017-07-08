@@ -45,4 +45,4 @@ git checkout $edition
 make docker
 ```
 
-The `Dockerfile` uses a Debian Linux base imagine for Node.js, and installs other build tools from Debian package repositories.  If you want to build without Docker, have a look at the `RUN` lines in `Dockerfile` to see what you'll need.
+The `Dockerfile` uses a Debian Linux base image for Node.js, and installs other build tools from Debian package repositories.  If you want to build without Docker, have a look at the `RUN` lines in `Dockerfile` to see what you'll need.
