@@ -28,7 +28,13 @@ $(OUTPUT)/%.json: %.cform | $(CF) $(OUTPUT)
 $(CF):
 	npm install
 
-.PHONY: clean docker
+.PHONY: clean docker lint critique
+
+lint: $(JSON) | $(CF)
+	for form in $(JSON); do echo $$form; $(CF) lint < $$form; done
+
+critique: $(JSON) | $(CF)
+	for form in $(JSON); do echo $$form ; $(CF) critique < $$form; done
 
 clean:
 	rm -rf $(OUTPUT)
