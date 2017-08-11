@@ -1,5 +1,8 @@
 CF=node_modules/.bin/commonform
+SPELL=node_modules/.bin/reviewers-edition-spell
 OUTPUT=build
+GIT_TAG=$(strip $(shell git tag -l --points-at HEAD))
+EDITION=$(if $(GIT_TAG),$(GIT_TAG),Development Draft)
 
 FORMS=$(basename $(wildcard *.cform))
 DOCX=$(addprefix $(OUTPUT)/,$(addsuffix .docx,$(FORMS)))
@@ -13,14 +16,21 @@ all: $(TARGETS)
 $(OUTPUT):
 	mkdir -p $@
 
-$(OUTPUT)/%.md: %.cform %.options blanks.json | $(CF) $(OUTPUT)
+$(OUTPUT)/%.md: %.form %.options blanks.json | $(CF) $(OUTPUT)
 	$(CF) render --format markdown $(shell cat $*.options) --blanks blanks.json < $< > $@
 
-$(OUTPUT)/%.docx: %.cform %.options %.json blanks.json | $(CF) $(OUTPUT)
+$(OUTPUT)/%.docx: %.form %.options %.json blanks.json | $(CF) $(OUTPUT)
 	$(CF) render --format docx $(shell cat $*.options) --signatures $*.json --blanks blanks.json < $< > $@
 
-$(OUTPUT)/%.json: %.cform | $(CF) $(OUTPUT)
+$(OUTPUT)/%.json: %.form | $(CF) $(OUTPUT)
 	$(CF) render --format native < $< > $@
+
+%.form: %.cform
+ifeq ($(EDITION),Development Draft)
+	cat $< | sed "s!PUBLICATION!a development draft of the Switchmode Developer Agreement!" > $@
+else
+	cat $< | sed "s!PUBLICATION!the $(shell echo "$(EDITION)" | $(SPELL) | sed 's!draft of!draft of the!') of the Switchmode Developer Agreement!" > $@
+endif
 
 %.pdf: %.docx
 	doc2pdf $<

@@ -1,4 +1,6 @@
-""Company"" and ""Developer"" agree to these terms, the [Agreement Edition] [Agreement Name]:
+""Company"" and ""Developer"" agree to these terms:
+
+    \Published Form\  This is PUBLICATION.  See https://switchmode.kemitchell.com for license terms and other information.
 
     \Purpose\  Open software developers and companies approach intellectual property, confidentiality, and other legal matters differently.  The expectations of their user and customer communities differ, too.  The purpose of this agreement is to enable <Developer> to bridge the gap and do paid work for <Company> without creating issues either for <Company> or for <Open Software> efforts that <Developer> has participated in, or may participate in later.  This agreement achieves that purpose with intellectual property, confidentiality, and other terms that vary, depending on whether open or proprietary expectations apply to specific work.
 
@@ -72,7 +74,7 @@
 
                     \Approving Open Release Request\  If the <Technical Representative> fails to send a decision in time for a <Proposed Release> that is a <Generic Improvement to Open Source>, and was noted as a <Generic Improvement to Open Source> in the <Open Release Request>, that <Proposed Release> automatically becomes an <Approved Release>.  Otherwise, a <Proposed Release> becomes an <Approved Release> only if the <Technical Representative> confirms that decision in writing.
 
-                    \License to Release\  <Company> licenses <Developed Intellectual Property> in each <Approved Release> to <Developer>.  The license permits <Developer> to sublicense the <Approved Release> to the public.  For an <Approved Release> that is a <Copyright Derivative> of <Open Software>, the terms of the public license must be the same terms on which the <Open Software> is currently licensed to the public.  For other <Developed Intellectual Property>, the terms of the public license must be a <Separate MIT License>.  In either case, unless an executive officer gives <Notice> of permission to attribute the <Approved Release> to the <Company> by name, <Developer> must replace the standard copyright notice with a statement that <Developer> sublicenses under the [Agreement Edition] [Agreement Name].
+                    \License to Release\  <Company> licenses <Developed Intellectual Property> in each <Approved Release> to <Developer>.  The license permits <Developer> to sublicense the <Approved Release> to the public.  For an <Approved Release> that is a <Copyright Derivative> of <Open Software>, the terms of the public license must be the same terms on which the <Open Software> is currently licensed to the public.  For other <Developed Intellectual Property>, the terms of the public license must be a <Separate MIT License>.  In either case, unless an executive officer gives <Notice> of permission to attribute the <Approved Release> to the <Company> by name, <Developer> must replace the standard copyright notice with a statement that <Developer> sublicenses under PUBLICATION.
 
             \Developer Guarantees\  <Developer> guarantees that all of these statements will be true of <Developed Intellectual Property> when delivered to <Company>:
 
