@@ -34,23 +34,23 @@
 
             \Open Project IP Terms\  For an <Open Project>:
 
-                \Developer Retains IP\  <Developer> retains all <Intellectual Property Rights> in <Developed Intellectual Property>.
+                \Developer Retains IP\  <Developer> retains all <Intellectual Property Rights> in <New Intellectual Property>.
 
-                \License to Company\  On <Company>'s full payment of each <Developer> bill for the <Project>, <Developer> licenses <Developed Intellectual Property> covered by that bill to <Company>.  For <Intellectual Property Rights> in <Derivatives> of <Open Software>, the terms of the license are the same terms on which the <Open Software> is licensed to the public.  For other <Intellectual Property Rights>, the terms are those of a <Separate MIT License>.
+                \License to Company\  On <Company>'s full payment of each <Developer> bill for the <Project>, <Developer> licenses <New Intellectual Property> covered by that bill to <Company>.  For <Intellectual Property Rights> in <Derivatives> of <Open Software>, the terms of the license are the same terms on which the <Open Software> is licensed to the public.  For other <Intellectual Property Rights>, the terms are those of a <Separate MIT License>.
 
-                \Public License\  <Developer> agrees that if <Developer> makes <Developed Intellectual Property> available to the public, <Developer> will do so under the same terms that <Developer> licenses it to the <Company> under {License to Company}.
+                \Public License\  <Developer> agrees that if <Developer> makes <New Intellectual Property> available to the public, <Developer> will do so under the same terms that <Developer> licenses it to the <Company> under {License to Company}.
 
             \Closed Project IP Terms\  For a <Closed Project>:
 
-                \Developer Assigns IP\  <Company> and <Developer> agree that <Developed Intellectual Property> will be "work made for hire" under copyright law, to the extent legally possible. On <Company>'s full payment of each <Developer> bill for the <Project>, <Developer> assigns <Developed Intellectual Property> covered by that bill that cannot be "work made for hire" to the <Company>.  Among the rights assigned are:
+                \Developer Assigns IP\  <Company> and <Developer> agree that <New Intellectual Property> will be "work made for hire" under copyright law, to the extent legally possible. On <Company>'s full payment of each <Developer> bill for the <Project>, <Developer> assigns <New Intellectual Property> covered by that bill that cannot be "work made for hire" to the <Company>.  Among the rights assigned are:
 
-                    \\  ownership of the <Developed Intellectual Property>
+                    \\  ownership of the <New Intellectual Property>
 
-                    \\  all rights to take <Legal Action> for <Infringement> of the <Developed Intellectual Property>
+                    \\  all rights to take <Legal Action> for <Infringement> of the <New Intellectual Property>
 
-                    \\  all rights to seek legal remedies for <Infringement> of the <Developed Intellectual Property>, such as money damages, injunctions, and other "equitable remedies", as well as any other compensation, benefits, or procedural privileges a court might award
+                    \\  all rights to seek legal remedies for <Infringement> of the <New Intellectual Property>, such as money damages, injunctions, and other "equitable remedies", as well as any other compensation, benefits, or procedural privileges a court might award
 
-                    \\  all other rights <Developer> has in the <Developed Intellectual Property>
+                    \\  all other rights <Developer> has in the <New Intellectual Property>
 
                 \Further Steps\  <Developer> agrees to do everything necessary to paper assignments in {Developer Assigns IP}, make them legally effective, and help <Company> enforce the rights assigned.  <Company> agrees to give <Notice> of any further steps required, to provide all necessary documentation, and to reimburse <Developer> for reasonable out-of-pocket expenses.
 
@@ -62,7 +62,7 @@
 
                 \Open Releases\
 
-                    \Requesting Open Releases\  No more than once per calendar quarter for a recurring <Project>, or once within thirty calendar days after the <Project> ends for any other <Project>, <Developer> may send a written ""Open Release Request"" to the <Technical Representative>.  Each <Open Release Request> must identify at least one ""Proposed Release"", a discreet, reusable <Software> component of <Developed Intellectual Property> that <Developer> proposes to publish as <Open Software>.  The <Open Release Request> must note when a <Proposed Release> is a <Generic Improvement to Open Source>.
+                    \Requesting Open Releases\  No more than once per calendar quarter for a recurring <Project>, or once within thirty calendar days after the <Project> ends for any other <Project>, <Developer> may send a written ""Open Release Request"" to the <Technical Representative>.  Each <Open Release Request> must identify at least one ""Proposed Release"", a discreet, reusable <Software> component of <New Intellectual Property> that <Developer> proposes to publish as <Open Software>.  The <Open Release Request> must note when a <Proposed Release> is a <Generic Improvement to Open Source>.
 
                     \Responding to Open Release Requests\  <Company> agrees to task the <Technical Representative> to respond to each <Open Release Request>:
 
@@ -72,37 +72,37 @@
 
                     \Approving Open Release Request\  If the <Technical Representative> fails to send a decision in time for a <Proposed Release> that is a <Generic Improvement to Open Source>, and was noted as a <Generic Improvement to Open Source> in the <Open Release Request>, that <Proposed Release> automatically becomes an <Approved Release>.  Otherwise, a <Proposed Release> becomes an <Approved Release> only if the <Technical Representative> confirms that decision in writing.
 
-                    \License to Release\  <Company> licenses <Developed Intellectual Property> in each <Approved Release> to <Developer>.  The license permits <Developer> to sublicense the <Approved Release> to the public.  For an <Approved Release> that is a <Copyright Derivative> of <Open Software>, the terms of the public license must be the same terms on which the <Open Software> is currently licensed to the public.  For other <Developed Intellectual Property>, the terms of the public license must be a <Separate MIT License>.  In either case, unless an executive officer gives <Notice> of permission to attribute the <Approved Release> to the <Company> by name, <Developer> must replace the standard copyright notice with a statement that <Developer> sublicenses under PUBLICATION.
+                    \License to Release\  <Company> licenses <New Intellectual Property> in each <Approved Release> to <Developer>.  The license permits <Developer> to sublicense the <Approved Release> to the public.  For an <Approved Release> that is a <Copyright Derivative> of <Open Software>, the terms of the public license must be the same terms on which the <Open Software> is currently licensed to the public.  For other <New Intellectual Property>, the terms of the public license must be a <Separate MIT License>.  In either case, unless an executive officer gives <Notice> of permission to attribute the <Approved Release> to the <Company> by name, <Developer> must replace the standard copyright notice with a statement that <Developer> sublicenses under PUBLICATION.
 
-            \Developer Guarantees\  <Developer> guarantees that all of these statements will be true of <Developed Intellectual Property> when delivered to <Company>:
+            \Developer Guarantees\  <Developer> guarantees that all of these statements will be true of <New Intellectual Property> when delivered to <Company>:
 
-                \\  <Developer> has all legal rights needed to license the <Developed Intellectual Property>, if the <Project> is an <Open Project>, or to assign the <Developed Intellectual Property>, if the <Project> is a <Closed Project>.
+                \\  <Developer> has all legal rights needed to license the <New Intellectual Property>, if the <Project> is an <Open Project>, or to assign the <New Intellectual Property>, if the <Project> is a <Closed Project>.
 
-                \\  None of the <Developed Intellectual Property> has been involved in any <Legal Action>.
+                \\  None of the <New Intellectual Property> has been involved in any <Legal Action>.
 
-                \\  No one else has claimed any rights in any <Developed Intellectual Property>.
+                \\  No one else has claimed any rights in any <New Intellectual Property>.
 
-                \\  None of the <Developed Intellectual Property> has been assigned or exclusively licensed to anyone else under a different agreement.
+                \\  None of the <New Intellectual Property> has been assigned or exclusively licensed to anyone else under a different agreement.
 
-                \\  No one else has any lien on or other right to any of the <Developed Intellectual Property> that will interfere with or limit the rights <Company> receives.
+                \\  No one else has any lien on or other right to any of the <New Intellectual Property> that will interfere with or limit the rights <Company> receives.
 
-                \\  No employer, client, educational institution, or other organization <Developer> has been affiliated with has any right to claim ownership of any of the <Developed Intellectual Property>.
+                \\  No employer, client, educational institution, or other organization <Developer> has been affiliated with has any right to claim ownership of any of the <New Intellectual Property>.
 
-                \\  If the <Developed Intellectual Property> <Utilizes> others' <Software>, data, or other kinds of work, either the <Project Summary> or the <Technical Representative> specifically approved that work, or it is <Open Software>.
+                \\  If the <New Intellectual Property> <Utilizes> others' <Software>, data, or other kinds of work, either the <Project Summary> or the <Technical Representative> specifically approved that work, or it is <Open Software>.
 
-            \Disclaimer!!  <Developer> makes only the guarantees in {Developer Guarantees} about <Developed Intellectual Property>.  Otherwise, <Developer> provides the <Developed Intellectual Property> without any warranty of merchantability, of fitness for a particular purpose, or of any other kind.
+            \Disclaimer!!  <Developer> makes only the guarantees in {Developer Guarantees} about <New Intellectual Property>.  Otherwise, <Developer> provides the <New Intellectual Property> without any warranty of merchantability, of fitness for a particular purpose, or of any other kind.
 
-        \Open Source Guidelines\  If <Company> gives <Notice> of specific <Open Software> or kinds of <Open License> that <Company> permits or prohibits, <Developer> agrees to follow those guidelines in selecting <Open Software> that <Developed Intellectual Property> for any later <Project> <Utilizes>.  <Company> agrees that <Developer> can rely on LICENSE, COPYING, and similar files, as well as copyright notices, header comments, and package metadata, to determine what license terms apply.
+        \Open Source Guidelines\  If <Company> gives <Notice> of specific <Open Software> or kinds of <Open License> that <Company> permits or prohibits, <Developer> agrees to follow those guidelines in selecting <Open Software> that <New Intellectual Property> for any later <Project> <Utilizes>.  <Company> agrees that <Developer> can rely on LICENSE, COPYING, and similar files, as well as copyright notices, header comments, and package metadata, to determine what license terms apply.
 
         # End of {Intellectual Property}
 
         \Work on Open Software\  Unless <Company> and <Developer> agree to a <Project> covering the work:
 
-            \\  <Company> does not agree to pay <Developer> for any extra work to prepare any <Approved Release>, or any <Developed Intellectual Property> created during work on any <Open Project>, for publication as <Open Software>.
+            \\  <Company> does not agree to pay <Developer> for any extra work to prepare any <Approved Release>, or any <New Intellectual Property> created during work on any <Open Project>, for publication as <Open Software>.
 
-            \\  <Developer> does not agree to maintain, provide support for, ensure the availability of, or provide any other kind of service for any <Developed Intellectual Property> published as <Open Software>.
+            \\  <Developer> does not agree to maintain, provide support for, ensure the availability of, or provide any other kind of service for any <New Intellectual Property> published as <Open Software>.
 
-        \Limited Damages!!  If <Company> takes <Legal Action> against <Developer> related to the <Developed Intellectual Property>, under contract law, tort law, or any other kind of law, the <Company>'s damages from <Developer> will be capped at the amount of fees <Company> actually paid <Developer> for the <Project>.
+        \Limited Damages!!  If <Company> takes <Legal Action> against <Developer> related to the <New Intellectual Property>, under contract law, tort law, or any other kind of law, the <Company>'s damages from <Developer> will be capped at the amount of fees <Company> actually paid <Developer> for the <Project>.
 
         \Changes\  <Company> and <Developer> can change any of the terms of a <Project Summary> by writing out and cosigning an amendment to the <Project Summary>.  <Developer> and the <Technical Representative> can change <Project Summary> terms about the scope of work that <Developer> will do, and technical standards for that work, by agreeing to changes in writing.
 
@@ -221,15 +221,7 @@
 
         \\  ""Derivatives"" means <Intellectual Property Rights> incorporating, improving, or derived from other <Intellectual Property Rights>.
 
-        \\  ""Developed Intellectual Property"" means all of these, created by <Developer> during work on a <Project>, alone or with <Company> personnel:
-
-            \\  all <Intellectual Property Rights> that <Developer> creates as a result of <Developer>'s work on a <Project>
-
-            \\  <Derivatives> of <Developed Intellectual Property>
-
-            \\  <Embodiments> of <Developed Intellectual Property>
-
-        \\  ""Embodiments"" means documents, computer files, and other records that describe, embody, record, or store the subject matter of <Developed Intellectual Property>.
+        \\  ""Embodiments"" means documents, computer files, and other records that describe, embody, record, or store the subject matter of <New Intellectual Property>.
 
         \\  ""Generic Improvement to Open Source"" means:
 
@@ -264,6 +256,14 @@
         \\  ""Legal Action"" means any legal action or claim, ignoring the historical distinction between actions "in law" and "in equity".
 
         \\  ""Legal Requirement"" means a requirement of a law, regulation, or order from a court, administrative body, or government institution with legal jurisdiction.
+
+        \\  ""New Intellectual Property"" means all of these, created by <Developer> during work on a <Project>, alone or with <Company> personnel:
+
+            \\  all <Intellectual Property Rights> that <Developer> creates as a result of <Developer>'s work on a <Project>
+
+            \\  <Derivatives> of <New Intellectual Property>
+
+            \\  <Embodiments> of <New Intellectual Property>
 
         \\  ""Notice"" means an email from one party to the other, delivered to the address provided with their signature, or to another address they specify by <Notice> after signing.
 
