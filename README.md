@@ -2,7 +2,7 @@
 
 an open form contract for open source contractors
 
-Download the most recent release from [GitHub](https://github.com/kemitchell/switchmode/releases) or [commonform.org](https://commonform.org/publications/kemitchell/switchmode/latest).
+Download the most recent release from [GitHub](https://github.com/kemitchell/switchmode/releases) or [commonform.org](https://commonform.org/publishers/switchmode).
 
 ## Be Warned!
 
