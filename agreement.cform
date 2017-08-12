@@ -36,7 +36,7 @@
 
                 \Developer Retains IP\  <Developer> retains all <Intellectual Property Rights> in <Developed Intellectual Property>.
 
-                \License to Company\  On <Company>'s full payment of each <Developer> bill for the <Project>, <Developer> licenses <Developed Intellectual Property> covered by that bill to <Company>.  For <Intellectual Property Rights> in any <Derivative> of <Open Software>, the terms of that license are the same terms on which the <Open Software> is licensed to the public.  For other <Intellectual Property Rights>, the terms are those of a <Separate MIT License>.
+                \License to Company\  On <Company>'s full payment of each <Developer> bill for the <Project>, <Developer> licenses <Developed Intellectual Property> covered by that bill to <Company>.  For <Intellectual Property Rights> in <Derivatives> of <Open Software>, the terms of the license are the same terms on which the <Open Software> is licensed to the public.  For other <Intellectual Property Rights>, the terms are those of a <Separate MIT License>.
 
                 \Public License\  <Developer> agrees that if <Developer> makes <Developed Intellectual Property> available to the public, <Developer> will do so under the same terms that <Developer> licenses it to the <Company> under {License to Company}.
 
@@ -219,31 +219,17 @@
 
         \\  ""Copyright Derivative"" means the same as "derivative work" under the United States' Copyright Act of 1976.
 
-        \\  ""Derivative"" means all of these:
-
-            \\  any <Copyright Derivative>
-
-            \\  any <Technology Derivative> of a <Technology>
-
-            \\  any technology, invention, product, or other item directly or indirectly incorporating or deriving from either of these:
-
-                \\  any part of a <Technology>
-
-                \\  any <Technology Derivative> of a <Technology>
+        \\  ""Derivatives"" means <Intellectual Property Rights> incorporating, improving, or derived from other <Intellectual Property Rights>.
 
         \\  ""Developed Intellectual Property"" means all of these, created by <Developer> during work on a <Project>, alone or with <Company> personnel:
 
-            \\  all <Intellectual Property Rights> in <Technology> that <Developer> creates as a result of <Developer>'s work on a <Project>
+            \\  all <Intellectual Property Rights> that <Developer> creates as a result of <Developer>'s work on a <Project>
 
-            \\  every <Derivative> of any <Developed Intellectual Property>
+            \\  <Derivatives> of <Developed Intellectual Property>
 
-            \\  every <Embodiment> of any <Developed Intellectual Property>
+            \\  <Embodiments> of <Developed Intellectual Property>
 
-        \\  ""Embodiment"" means:
-
-            \\  documentation, drafts, papers, designs, schematics, diagrams, models, prototypes, <Software>, computer-stored data, computer storage media, manuscripts, and other items
-
-            \\  that describe, embody, record, or store all or any part of a <Technology>, any <Derivative>, any <Intellectual Property Rights> or related information.
+        \\  ""Embodiments"" means documents, computer files, and other records that describe, embody, record, or store the subject matter of <Developed Intellectual Property>.
 
         \\  ""Generic Improvement to Open Source"" means:
 
@@ -251,13 +237,27 @@
 
             \\  that is suitable for submission as a patch to the <Open Software> project from which it derives
 
-            \\  but is not a <Derivative> or <Embodiment> of any <Company> <Secrets>
+            \\  that does not contain any <Derivatives> or <Embodiments> of any <Company> <Secrets>
 
         \\  ""Information Marked Confidential"" means information that is not <Publicly Available> that is disclosed in materials marked or identified in writing as "Secret", "Confidential", "Proprietary", or similar.
 
         \\  ""Infringement"" means infringement of <Intellectual Property Rights>, before or after the date of this agreement.
 
-        \\  ""Intellectual Property Rights"" means patents, patent rights, copyrights, mask work rights, moral rights, trade names, trademarks, service marks, rights in trade dress and packaging, trade secrets, know-how, goodwill, Internet-based service accounts and account names, domain names, intellectual property rights and proprietary rights, and registrations and applications for <Intellectual Property Rights>, under the laws of the United States and any other state, country, or jurisdiction
+        \\  ""Intellectual Property Rights"" means all of these:
+
+            \\  copyrights, mask work rights, and moral rights
+
+            \\  patent rights
+
+            \\  trade secrets
+
+            \\  trade names, trademarks, service marks, and rights in trade dress and packaging
+
+            \\  database rights
+
+            \\  other kinds of exclusive rights that lawyers typically class as "intellectual property rights"
+
+            \\ plus rights in registrations and applications for <Intellectual Property Rights>.
 
         \\  ""Leak"" means unauthorized disclosure or loss of <Secrets> from or by a party or any other person a party suspects has obligations to keep the <Secrets> confidential. A <Leak> is a <Leak> whether caused by accident or due to an intentional security breach.
 
@@ -288,10 +288,5 @@
         \\  ""Separate MIT License"" means The MIT License, in the form standardized by Software Package Data eXchange with the identifier "MIT", interpreted as an entirely independent legal document, without reference to these terms or the circumstances of <Developer> and <Company>'s contractor-client relationship.
 
         \\  ""Software"" means computer code and software configuration, whether in source, script, or compiled form, for any software or hardware platform, and stored in any format.
-
-        # TODO Review.
-        \\  ""Technology"" means inventions, technology, ideas, concepts, processes, business plans, documentation, financial projections, and models.
-
-        \\  ""Technology Derivative"" means an improvement, change, alteration, adaptation, enhancement, or new version of a <Technology>.
 
         \\  <Software> ""Utilizes"" another work when it explicitly depends on, installs, configures, invokes, or links to the other work, directly or indirectly.
