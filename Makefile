@@ -5,7 +5,7 @@ OUTPUT=build
 PROJECT_OUTPUT=$(OUTPUT)/projects
 GIT_TAG=$(strip $(shell git tag -l --points-at HEAD))
 EDITION=$(if $(GIT_TAG),$(GIT_TAG),Development Draft)
-ifeq ($(EDITION),Development Draft)
+ifeq ($(EDITION),development draft)
 	SPELLED_EDITION=$(EDITION)
 else
 	SPELLED_EDITION=$(shell echo "$(EDITION)" | $(SPELL) | sed 's!draft of!draft of the!')
