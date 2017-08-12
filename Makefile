@@ -25,7 +25,7 @@ $(PROJECT_OUTPUT)/%.md: projects/%.form blanks.json | $(CF) $(PROJECT_OUTPUT)
 	$(CF) render --format markdown --title "$(SUMMARY_TITLE)" --blanks blanks.json < $< > $@
 
 $(PROJECT_OUTPUT)/%.docx: projects/%.cform projects/signatures.json blanks.json | $(CF) $(PROJECT_OUTPUT)
-	$(CF) render --format docx --title "$(SUMMARY_TITLE)" --left-align-title --indent-margins --number outline --signatures projects/signatures.json --blanks blanks.json < $< > $@
+	$(CF) render --format docx --title "$(SUMMARY_TITLE)" --left-align-title --edition "$(EDITION)" --indent-margins --number outline --signatures projects/signatures.json --blanks blanks.json < $< > $@
 
 $(PROJECT_OUTPUT)/%.json: projects/%.cform | $(CF) $(PROJECT_OUTPUT)
 	$(CF) render --format native < $< > $@
