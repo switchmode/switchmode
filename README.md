@@ -2,8 +2,6 @@
 
 an open form contract for open source contractors
 
-The form is under active development toward a first edition.  Feedback and contributions are _very_ welcome.  [See `CONTRIBUTING.md`](./CONTRIBUTING.md).
-
 Download the most recent release from [GitHub](https://github.com/kemitchell/switchmode/releases) or [commonform.org](https://commonform.org/publications/kemitchell/switchmode/latest).
 
 ## Be Warned!
@@ -31,6 +29,8 @@ Both the open release process and community-work exception involve a "technical 
 Switchmode is structured as a master agreement setting out terms that apply to work agreed in "Project Summaries" signed by developer and client.  There are all kinds of names for this kind of arrangement: statements of work, work orders, and so on.
 
 Each Project Summary describes the work to be done on a project, what the client will pay for it, and whether it is an "open project" or a "closed project".  Different intellectual property and confidentiality terms apply to work on the project, depending on whether it's closed or open.
+
+Switchmode comes with a number of starting-point templates for projects of various kinds.
 
 ## Building
 
