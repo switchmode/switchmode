@@ -1,17 +1,34 @@
 CF=node_modules/.bin/commonform
+CFT=node_modules/.bin/cftemplate
 SPELL=node_modules/.bin/reviewers-edition-spell
 OUTPUT=build
+PROJECT_OUTPUT=$(OUTPUT)/projects
 GIT_TAG=$(strip $(shell git tag -l --points-at HEAD))
 EDITION=$(if $(GIT_TAG),$(GIT_TAG),Development Draft)
 
 FORMS=$(basename $(wildcard *.cform))
-DOCX=$(addprefix $(OUTPUT)/,$(addsuffix .docx,$(FORMS)))
-PDF=$(addprefix $(OUTPUT)/,$(addsuffix .pdf,$(FORMS)))
-MD=$(addprefix $(OUTPUT)/,$(addsuffix .md,$(FORMS)))
-JSON=$(addprefix $(OUTPUT)/,$(addsuffix .json,$(FORMS)))
+PROJECTS=$(basename $(wildcard projects/*.cform))
+DOCX=$(addprefix $(OUTPUT)/,$(addsuffix .docx,$(FORMS) $(PROJECTS)))
+PDF=$(addprefix $(OUTPUT)/,$(addsuffix .pdf,$(FORMS) $(PROJECTS)))
+MD=$(addprefix $(OUTPUT)/,$(addsuffix .md,$(FORMS) $(PROJECTS)))
+JSON=$(addprefix $(OUTPUT)/,$(addsuffix .json,$(FORMS) $(PROJECTS)))
 TARGETS=$(DOCX) $(PDF) $(MD) $(JSON)
 
 all: $(TARGETS)
+
+$(PROJECT_OUTPUT):
+	mkdir -p $@
+
+SUMMARY_TITLE=Switchmode Developer Agreement Project Summary
+
+$(PROJECT_OUTPUT)/%.md: projects/%.form blanks.json | $(CF) $(PROJECT_OUTPUT)
+	$(CF) render --format markdown --title "$(SUMMARY_TITLE)" --blanks blanks.json < $< > $@
+
+$(PROJECT_OUTPUT)/%.docx: projects/%.cform projects/signatures.json blanks.json | $(CF) $(PROJECT_OUTPUT)
+	$(CF) render --format docx --title "$(SUMMARY_TITLE)" --left-align-title --indent-margins --number outline --signatures projects/signatures.json --blanks blanks.json < $< > $@
+
+$(PROJECT_OUTPUT)/%.json: projects/%.cform | $(CF) $(PROJECT_OUTPUT)
+	$(CF) render --format native < $< > $@
 
 $(OUTPUT):
 	mkdir -p $@

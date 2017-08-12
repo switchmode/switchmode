@@ -1,0 +1,25 @@
+[
+  {
+    "header": "The parties are signing this project summary on the dates by their signatures.",
+    "term": "Developer",
+    "information": [
+      "date",
+      "email"
+    ]
+  },
+  {
+    "term": "Company",
+    "samePage": true,
+    "entities": [
+      {
+        "name": null,
+        "jurisdiction": null,
+        "by": null
+      }
+    ],
+    "information": [
+      "date",
+      "email"
+    ]
+  }
+]

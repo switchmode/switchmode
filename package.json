@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "cftemplate": "^2.0.1",
     "commonform-cli": "^0.25.0",
     "reviewers-edition-spell": "^2.0.0"
   }
