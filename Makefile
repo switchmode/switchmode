@@ -37,7 +37,7 @@ $(OUTPUT)/%.md: %.form %.options blanks.json | $(CF) $(OUTPUT)
 	$(CF) render --format markdown $(shell cat $*.options) --blanks blanks.json < $< > $@
 
 $(OUTPUT)/%.docx: %.form %.options %.json blanks.json | $(CF) $(OUTPUT)
-	$(CF) render --format docx $(shell cat $*.options) --signatures $*.json --blanks blanks.json < $< > $@
+	$(CF) render --format docx $(shell cat $*.options) --edition "$(EDITION)" --signatures $*.json --blanks blanks.json < $< > $@
 
 $(OUTPUT)/%.json: %.form | $(CF) $(OUTPUT)
 	$(CF) render --format native < $< > $@
