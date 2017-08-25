@@ -203,7 +203,7 @@
 
             \\  <Company> can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change <Company>'s legal form or jurisdiction.
 
-        \Delegation\  Neither <Company> nor <Developer> can delegate any duty under this agreement.  Any attempt to delegate has no legal effect.
+        \Delegation\  If <Developer> assigns this agreement under {Assignment}, the entity <Developer> assigns to may delegate its obligations to <Developer>.  Otherwise, neither <Company> nor <Developer> can delegate any duty under this agreement.  Any attempt to delegate has no legal effect.
 
         \Unenforceable Terms\  If a court decides that any part of this agreement cannot be enforced, for any reason, the rest of this agreement will continue to apply, so long as that wouldn't defeat the purpose of this agreement in {Purpose}.
 
