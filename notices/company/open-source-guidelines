@@ -1,0 +1,11 @@
+From: {Company}
+To: {Developer}
+CC: {Technical Representative}
+Subject: Switchmode Open Source Guidelines
+
+This is notice of open source guidelines under our
+Switchmode Developer Agreement.
+
+Permitted Licenses: {SPDX Identifiers...}
+
+Prohibited Licenses: {SPDX Identifiers...}

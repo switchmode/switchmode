@@ -1,0 +1,9 @@
+From: {Company}
+To: {Developer}
+CC: {Technical Representative}
+Subject: Switchmode Security Requirements
+
+This is notice of open security requirements for secrets
+under our Switchmode Developer Agreement.
+
+{Describe the new security requirements.}

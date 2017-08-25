@@ -1,0 +1,15 @@
+From: {Company}
+To: {Developer}
+CC: {Technical Representative}
+Subject: Switchmode Suspected Billing Error
+
+This is notice that we suspect a biling error under our
+Switchmode Developer Agreement.
+
+Bill: {Number}
+Item: {...}
+Amount: {...}
+
+We suspect this amount is wrong because:
+
+{Describe the error.}

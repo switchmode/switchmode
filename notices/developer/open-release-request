@@ -1,0 +1,19 @@
+From: {Developer}
+To: {Company}
+CC: {Technical Representative}
+Subject: Switchmode Open Release Request
+
+This is an Open Release Request under our Switchmode
+Developer Agreement for the following components:
+
+Name: {Name}
+Description: {...}
+URL: {Repository, if any}
+Generic Improvement to Open Source: {Yes or No}
+
+Name: {Name}
+Description: {...}
+URL: {Repository, if any}
+Generic Improvement to Open Source: {Yes or No}
+
+..
