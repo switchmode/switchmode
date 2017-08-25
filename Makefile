@@ -17,7 +17,21 @@ DOCX=$(addprefix $(OUTPUT)/,$(addsuffix .docx,$(FORMS) $(PROJECTS)))
 PDF=$(addprefix $(OUTPUT)/,$(addsuffix .pdf,$(FORMS) $(PROJECTS)))
 MD=$(addprefix $(OUTPUT)/,$(addsuffix .md,$(FORMS) $(PROJECTS)))
 JSON=$(addprefix $(OUTPUT)/,$(addsuffix .json,$(FORMS) $(PROJECTS)))
-TARGETS=$(DOCX) $(PDF) $(MD) $(JSON)
+
+CO_NOTICES=$(basename $(notdir $(wildcard notices/company/*.eml)))
+PREFIXED_CO_NOTICES=$(addprefix company-,$(CO_NOTICES))
+
+TR_NOTICES=$(basename $(notdir $(wildcard notices/company/technical-representative/*.eml)))
+PREFIXED_TR_NOTICES=$(addprefix tech-rep-,$(TR_NOTICES))
+
+DEV_NOTICES=$(basename $(notdir $(wildcard notices/developer/*.eml)))
+PREFIXED_DEV_NOTICES=$(addprefix developer-,$(DEV_NOTICES))
+
+PREFIXED_NOTICES=$(PREFIXED_CO_NOTICES) $(PREFIXED_TR_NOTICES) $(PREFIXED_DEV_NOTICES)
+
+NOTICES=$(addprefix $(OUTPUT)/,$(addprefix notice-,$(PREFIXED_NOTICES)))
+
+TARGETS=$(DOCX) $(PDF) $(MD) $(JSON) $(NOTICES)
 
 all: $(TARGETS)
 
@@ -56,6 +70,15 @@ endif
 
 %.pdf: %.docx
 	doc2pdf $<
+
+$(OUTPUT)/notice-company-%: notices/company/%.eml
+	cp $< $@
+
+$(OUTPUT)/notice-tech-rep-%: notices/company/technical-representative/%.eml
+	cp $< $@
+
+$(OUTPUT)/notice-developer-%: notices/developer/%.eml
+	cp $< $@
 
 $(CF):
 	npm install
