@@ -1,3 +1,5 @@
+![Switchmode](./switchmode.png)
+
 # Switchmode Developer Agreement
 
 an open form contract for open source contractors
