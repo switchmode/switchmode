@@ -1,0 +1,5 @@
+- [ ] Sign the agreement.
+- [ ] Receive countersigned agreement.
+- [ ] Sign and send the first project statement.
+- [ ] Receive countersigned project statement.
+- [ ] Send e-mail with any security requirements.
