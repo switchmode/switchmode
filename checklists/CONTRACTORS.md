@@ -1,5 +1,6 @@
 - [ ] Sign the agreement.
 - [ ] Receive countersigned agreement.
+- [ ] Send tax forms (e.g. IRS W-9).
 - [ ] Sign and send the first project statement.
 - [ ] Receive countersigned project statement.
 - [ ] Send e-mail with any security requirements.
