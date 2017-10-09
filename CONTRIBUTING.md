@@ -5,7 +5,7 @@ Feedback and contributions are _very_ welcome.
 
 ## Software People
 
-Have a look at the most recent [release](https://github.com/kemitchell/switchmode/releases).  You'll probably prefer the Markdown copy, or the link to <https://commonform.org>.
+Have a look at the most recent [release](https://github.com/switchmode/switchmode/releases).  You'll probably prefer the Markdown copy, or the link to <https://commonform.org>.
 
 I'm dead serious.  The form was written in a plain style, designed to be as transparent and approachable to non-lawyer folk as possible.  You should understand whatever form contract you use, even as you rely on a professional to help negotiate and make changes to accommodate specific clients and projects.
 
@@ -26,7 +26,7 @@ Wishlist from software people:
 
 ## Lawyers
 
-Have a look at the most recent [release](https://github.com/kemitchell/switchmode/releases).  You can download a Word or PDF copy if that's how you prefer to work.
+Have a look at the most recent [release](https://github.com/switchmode/switchmode/releases).  You can download a Word or PDF copy if that's how you prefer to work.
 
 If you use GitHub, feel free to open issues or send pull requests.  You can also send me e-mail directly, especially if you prefer to collaborate privately.  I will honor your preference.
 

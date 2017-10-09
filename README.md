@@ -4,7 +4,7 @@
 
 an open form contract for open source contractors
 
-Download the most recent release from [GitHub](https://github.com/kemitchell/switchmode/releases) or [commonform.org](https://commonform.org/publishers/switchmode).
+Download the most recent release from [GitHub](https://github.com/switchmode/switchmode/releases) or [commonform.org](https://commonform.org/publishers/switchmode).
 
 ## Be Warned!
 
@@ -41,7 +41,7 @@ The repository has configuration to build copies of the terms in various formats
 If you're alright agreeing to the terms of use for Microsoft's Core Fonts for the Web, for Times New Roman, the easiest way to build is probably with Docker:
 
 ```shellsession
-git clone https://github.com/kemitchell/switchmode
+git clone https://github.com/switchmode/switchmode
 cd switchmode
 git checkout $edition
 make docker
