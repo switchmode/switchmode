@@ -6,10 +6,12 @@
 
     \Service\
 
-        \\  <Developer> will develop and publish software to [Software Description]
+        \\  <Developer> will develop software to [Software Description]
 
         \\  The software will meet the following compatibility and other technical criteria: [Software Description]
 
         \\  <Developer> will work to ensure publication of initial working versions by [Initial Deadline] and final versions by [Final Deadline].
+
+    \Delivery\  <Developer> will deliver work on the project to <Company> by [Delivery Method].
 
     \Fees\  <Company> will pay <Developer> a flat fee of [Flat Fee].
