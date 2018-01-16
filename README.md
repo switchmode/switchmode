@@ -18,9 +18,9 @@ The Switchmode Developer Agreement is a new breed of independent contractor agre
 
 ### New and Novel
 
-Switchmode uses the terms of an open-source license, The MIT License, as the terms of license between developer and client.  Most clients' lawyers know MIT well, and use a ton of software under its terms already.  To address additional, reasonable expectations for paid work, Switchmode layers additional terms about provenance and ownership on top of MIT for work from the developer.
+Switchmode uses the terms of an open-source license, The Apache License, Version 2.0, as the terms of license between developer and client.  Most clients' lawyers know Apache well, and use a ton of software under its terms already.  To address additional, reasonable expectations for paid work, Switchmode layers additional terms about provenance and ownership on top of Apache for work from the developer.
 
-Switchmode sets up an open release process the developer can use to request permission to publish reusable components of company-owned, closed-project work under The MIT License.  When approved, the developer can release code under an MIT License under sublicense through Switchmode, without disclosing who the client was.  The client can optionally choose direct attribution.
+Switchmode sets up an open release process the developer can use to request permission to publish reusable components of company-owned, closed-project work under The Apache License.  When approved, the developer can release code under an Apache License under sublicense through Switchmode, without disclosing who the client was.  The client can optionally choose direct attribution.
 
 Plain-language, two-way confidentiality terms cover all projects and work.  There's an explicit exception for approved open releases, as well as a special exception for disclosing technical details when working with developers of open-source software used for a project.
 

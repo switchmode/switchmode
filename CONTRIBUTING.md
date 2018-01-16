@@ -36,7 +36,7 @@ Wishlist from lawyer-folk:
 
 - Any thoughts from in-house counsel who hire open source developers, either for open source or proprietary work, in particular?  Would you approve this for signature with the right contractor?
 
-- Does the "Separate MIT License" concept make sense?
+- Does the "Separate Apache License" concept make sense?
 
 - Any show-stopping issues in the Open Release process?
 

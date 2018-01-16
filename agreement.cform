@@ -36,7 +36,7 @@
 
                 \Developer Retains IP\  <Developer> retains all <Intellectual Property Rights> in <New Intellectual Property>.
 
-                \License to Company\  On <Company>'s full payment of each <Developer> bill for the <Project>, <Developer> licenses <New Intellectual Property> created during work charged on that bill to <Company>.  For <Intellectual Property Rights> in <Derivatives> of <Open Software>, the terms of the license are the same terms on which the <Open Software> is licensed to the public.  For other <Intellectual Property Rights>, the terms are those of a <Separate MIT License>.
+                \License to Company\  On <Company>'s full payment of each <Developer> bill for the <Project>, <Developer> licenses <New Intellectual Property> created during work charged on that bill to <Company>.  For <Intellectual Property Rights> in <Derivatives> of <Open Software>, the terms of the license are the same terms on which the <Open Software> is licensed to the public.  For other <Intellectual Property Rights>, the terms are those of a <Separate Apache License>.
 
                 \Public License\  <Developer> agrees that if <Developer> makes <New Intellectual Property> available to the public, <Developer> will do so under the same terms that <Developer> licenses it to the <Company> under {License to Company}.
 
@@ -72,7 +72,7 @@
 
                     \Approving Open Release Request\  If the <Technical Representative> fails to send a decision in time for a <Proposed Release> that is a <Generic Improvement to Open Source> and was noted as a <Generic Improvement to Open Source> in the <Open Release Request>, that <Proposed Release> becomes an <Approved Release>.  Otherwise, a <Proposed Release> becomes an <Approved Release> only if the <Technical Representative> confirms that decision in writing.
 
-                    \License to Release\  <Company> licenses <New Intellectual Property> in each <Approved Release> to <Developer>.  The license permits <Developer> to sublicense the <Approved Release> to the public.  For an <Approved Release> that is a <Copyright Derivative> of <Open Software>, the terms of the public license must be the same terms on which the <Open Software> is currently licensed to the public.  Otherwise, the terms of the public license must be a <Separate MIT License>.  In either case, unless an executive officer gives <Notice> of permission to attribute the <Approved Release> to the <Company> by name, <Developer> must replace the standard copyright notice with a statement that <Developer> sublicenses under PUBLICATION.
+                    \License to Release\  <Company> licenses <New Intellectual Property> in each <Approved Release> to <Developer>.  The license permits <Developer> to sublicense the <Approved Release> to the public.  For an <Approved Release> that is a <Copyright Derivative> of <Open Software>, the terms of the public license must be the same terms on which the <Open Software> is currently licensed to the public.  Otherwise, the terms of the public license must be a <Separate Apache License>.  In either case, unless an executive officer gives <Notice> of permission to attribute the <Approved Release> to the <Company> by name, <Developer> must replace the standard copyright notice with a statement that <Developer> sublicenses under PUBLICATION.
 
             \Developer Guarantees\  <Developer> guarantees that:
 
@@ -283,7 +283,7 @@
 
         Information is not <Publicly Available> just because it synthesizes other information that is <Publicly Available>.
 
-        \\  ""Separate MIT License"" means The MIT License, in the form standardized by Software Package Data eXchange with the identifier "MIT", interpreted as an entirely independent legal document, without reference to these terms or the circumstances of <Developer> and <Company>'s contractor-client relationship.
+        \\  ""Separate Apache License"" means The Apache License, Version 2.0, in the form standardized by Software Package Data eXchange with the identifier "Apache-2.0", interpreted as an entirely independent legal document, without reference to these terms or the circumstances of <Developer> and <Company>'s contractor-client relationship.
 
         \\  ""Software"" means computer code and software configuration, whether in source, script, or compiled form, for any software or hardware platform, and stored in any format.
 
