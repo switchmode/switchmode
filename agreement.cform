@@ -162,9 +162,9 @@
 
         \Leaks and Disclosures\  <Company> and <Developer> agree to give immediate <Notice> summarizing what <Secrets> may be affected, who may receive <Secrets>, and any relevant <Legal Requirement> whenever:
 
-            \\  they believe a <Leak> may happen
-
             \\  they learn that a <Leak> has happened
+
+            \\  they believe a <Leak> may happen
 
             \\  they believe a <Legal Requirement> will force them to disclose <Secrets>, before making the disclosure, if possible
 
