@@ -74,13 +74,13 @@
 
                     \License to Release\  <Company> licenses <New Intellectual Property> in each <Approved Release> to <Developer>.  The license permits <Developer> to sublicense the <Approved Release> to the public.  For an <Approved Release> that is a <Copyright Derivative> of <Open Software>, the terms of the public license must be the same terms on which the <Open Software> is currently licensed to the public.  Otherwise, the terms of the public license must be a <Separate MIT License>.  In either case, unless an executive officer gives <Notice> of permission to attribute the <Approved Release> to the <Company> by name, <Developer> must replace the standard copyright notice with a statement that <Developer> sublicenses under PUBLICATION.
 
-            \Developer Guarantees\  <Developer> guarantees that all of these statements will be true of <New Intellectual Property> when delivered to <Company>:
+            \Developer Guarantees\  <Developer> guarantees that:
 
                 \\  <Developer> has all legal rights needed to license the <New Intellectual Property>, if the <Project> is an <Open Project>, or to assign the <New Intellectual Property>, if the <Project> is a <Closed Project>.
 
                 \\  None of the <New Intellectual Property> has been involved in any <Legal Action>.
 
-                \\  No one else has claimed any rights in any <New Intellectual Property>.
+                \\  No one else has claimed any rights in any of the <New Intellectual Property>.
 
                 \\  None of the <New Intellectual Property> has been assigned or exclusively licensed to anyone else under a different agreement.
 
@@ -88,7 +88,7 @@
 
                 \\  No employer, client, educational institution, or other organization <Developer> has been affiliated with has any right to claim ownership of any of the <New Intellectual Property>.
 
-                \\  If the <New Intellectual Property> <Utilizes> others' <Software>, data, or other kinds of work, either the <Project Summary> or the <Technical Representative> specifically approved that work, or it is <Open Software>.
+                \\  If any <Developer> work <Utilizes> others' <Software>, data, or other kinds of work, either the <Project Summary> or the <Technical Representative> specifically approved that work, or it is <Open Software>.
 
             \Disclaimer!!  <Developer> makes only the guarantees in {Developer Guarantees} about <New Intellectual Property>.  Otherwise, <Developer> provides the <New Intellectual Property> without any warranty of merchantability, of fitness for a particular purpose, or of any other kind.
 
