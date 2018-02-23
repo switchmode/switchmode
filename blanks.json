@@ -2,5 +2,6 @@
   "Large Expense Payment Deadline": "seven calendar days",
   "Payment Deadline":"thirty calendar days",
   "Dispute Deadline":"fourteen calendar days",
-  "Late Payment Interest": "1.5%"
+  "Late Payment Interest": "1.5%",
+  "Open Release Request Deadline" "thirty calendar days"
 }

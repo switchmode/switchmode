@@ -50,7 +50,7 @@
 
                 \Open Releases\
 
-                    \Requesting Open Releases\  No more than once per calendar quarter for a recurring <Project>, or once within thirty calendar days after the <Project> ends for any other <Project>, <Developer> may send a written ""Open Release Request"" to the <Technical Representative>.  Each <Open Release Request> must identify at least one ""Proposed Release"", a discreet, reusable <Software> component of <New Intellectual Property> that <Developer> proposes to publish as <Open Software>.  The <Open Release Request> must note when a <Proposed Release> is a <Generic Improvement to Open Source>.
+                    \Requesting Open Releases\  No more than once per calendar quarter for a recurring <Project>, or once within [Open Release Request Deadline] after the <Project> ends for any other <Project>, <Developer> may send a written ""Open Release Request"" to the <Technical Representative>.  Each <Open Release Request> must identify at least one ""Proposed Release"", a discreet, reusable <Software> component of <New Intellectual Property> that <Developer> proposes to publish as <Open Software>.  The <Open Release Request> must note when a <Proposed Release> is a <Generic Improvement to Open Source>.
 
                     \Responding to Open Release Requests\  <Company> agrees to task the <Technical Representative> to respond to each <Open Release Request>:
 
