@@ -80,7 +80,7 @@
 
                 \\  If any <Developer> work <Utilizes> the work of others who are not <Company> employees or contractors, either the <Project Summary> or the <Technical Representative> specifically approved that work, or it is <Open Software>.
 
-            \Disclaimer!!  <Developer> makes only the guarantees in {Developer Guarantees} about <New Intellectual Property>.  Otherwise, <Developer> provides the <New Intellectual Property> without any warranty of merchantability, of fitness for a particular purpose, or of any other kind.
+            \Disclaimer!!  <Developer> makes only the guarantees in {Developer Guarantees}.  Otherwise, <Developer> provides the <New Intellectual Property> and their work "as is", without any warranty.
 
         \Open Source Guidelines\  If <Company> gives <Notice> of specific <Open Software> or kinds of <Open License> that <Company> permits or prohibits, <Developer> agrees to follow those guidelines in selecting <Open Software> that <New Intellectual Property> for any later <Project> <Utilizes>.  <Company> agrees that <Developer> can rely on LICENSE, COPYING, and similar files, as well as copyright notices, header comments, and package metadata, to determine what license terms apply.
 
