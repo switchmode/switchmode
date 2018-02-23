@@ -100,7 +100,7 @@
 
         \Changes\  <Company> and <Developer> can change any of the terms of a <Project Summary> by writing out and cosigning an amendment to the <Project Summary>.  <Developer> and the <Technical Representative> can change <Project Summary> terms about the scope of work that <Developer> will do, and technical standards for that work, by agreeing to changes in writing.
 
-        \Project Term\  If the <Project Summary> describes recurring work, the <Project> continues until either <Developer> or <Company> gives <Notice> that it will stop at the end of the next calendar month.  Otherwise, the <Project> ends when <Developer> delivers <Project> work under {Delivery}.  <Company> and <Developer> can agree to end a <Project> early at any time.
+        \Project Term\  If the <Project Summary> describes recurring work, the <Project> continues until either <Developer> or <Company> gives <Notice> that it end at the end of the next calendar month.  Otherwise, the <Project> ends when <Developer> delivers <Project> work under {Delivery}.  <Company> and <Developer> can agree to end a <Project> early at any time.
 
     \Confidentiality\
 
