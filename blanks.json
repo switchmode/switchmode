@@ -3,5 +3,6 @@
   "Payment Deadline":"thirty calendar days",
   "Dispute Deadline":"fourteen calendar days",
   "Late Payment Interest": "1.5%",
-  "Open Release Request Deadline" "thirty calendar days"
+  "Open Release Request Deadline": "thirty calendar days",
+  "Open Release Decision Deadline": "fourteen calendar days"
 }

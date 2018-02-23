@@ -56,7 +56,7 @@
 
                         \\  The <Technical Representative> must discuss each <Proposed Release> with <Developer>, as needed, and decide whether each <Proposed Release> is an ""Approved Release"".
 
-                        \\  The <Technical Representative> must send a decision for each <Proposed Release>, in writing, to <Developer> within fourteen calendar days.
+                        \\  The <Technical Representative> must send a decision for each <Proposed Release>, in writing, to <Developer> within [Open Release Decision Deadline].
 
                     \Approving Open Release Request\  If the <Technical Representative> fails to send a decision in time for a <Proposed Release> that is a <Generic Improvement to Open Source> and was noted as a <Generic Improvement to Open Source> in the <Open Release Request>, that <Proposed Release> becomes an <Approved Release>.  Otherwise, a <Proposed Release> becomes an <Approved Release> only if the <Technical Representative> confirms that decision in writing.
 
