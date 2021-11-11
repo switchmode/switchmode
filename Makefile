@@ -68,8 +68,8 @@ else
 	cat $< | sed "s!PUBLICATION!the $(SPELLED_EDITION) of the Switchmode Developer Agreement!" > $@
 endif
 
-%.pdf: %.docx
-	doc2pdf $<
+$(OUTPUT)/%.pdf: $(OUTPUT)/%.docx
+	soffice --headless --convert-to pdf --outdir "$(OUTPUT)" "$<"
 
 $(OUTPUT)/notice-company-%: notices/company/%.eml
 	cp $< $@
